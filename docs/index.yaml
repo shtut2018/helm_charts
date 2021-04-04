@@ -1,13 +1,23 @@
 apiVersion: v1
 entries:
+  devops-project:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-04-04T13:33:11.200273863+03:00"
+    digest: c4d96b3c50134a01fc7feef0384eed09c4e510a1bdca1a61b0418edfff2584fe
+    name: devops-project
+    type: application
+    urls:
+    - https://shtut2018.github.io/helm_charts/devops-project-0.3.0.tgz
+    version: 0.3.0
   devops_project:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-04-04T13:09:08.757052941+03:00"
+    created: "2021-04-04T13:33:11.200492144+03:00"
     digest: fdb035afc97bddcbb3174a49aeac18b14dba77e2bc7828633dc1371018ed6209
     name: devops_project
     type: application
     urls:
     - https://shtut2018.github.io/helm_charts/devops_project-0.2.0.tgz
     version: 0.2.0
-generated: "2021-04-04T13:09:08.756673488+03:00"
+generated: "2021-04-04T13:33:11.199813675+03:00"
